@@ -28,3 +28,7 @@ The setup consists of three parts:
 3. **SEB Server Web UI** — connect the LMS and create the configuration and exam templates used for exams.
 
 Start with [1. Server Setup](docs/01-server-setup.md).
+
+## Contributing
+
+Feel free to contribute! If you spot a mistake, have an improvement, or want to share your own setup experience, just open an issue or a pull request.
