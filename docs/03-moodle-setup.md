@@ -20,6 +20,12 @@ Add the `sebserver` user as an authorised user of the plugin's external web serv
 
 `Site administration → Server → External services` (`/admin/settings.php?section=externalservices`)
 
+![External services list in Moodle with the SEB Server web service](images/moodle-external-services.png)
+
+If the user still lacks capabilities, Moodle shows a hint on the authorised users page:
+
+![Authorised user entry showing a missing rights hint](images/moodle-authorised-user.png)
+
 ## User permissions
 
 Create a dedicated role for the web service user. A role template is provided by the SEB Server project:
